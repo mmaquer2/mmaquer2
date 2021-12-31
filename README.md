@@ -1,4 +1,18 @@
-### Hi there 👋
+
+
+- Hi! I'm Mike, a software engineer located in Boston, MA, currently pursing a masters degree in computer science at Northeastern University.
+
+- BS in Neuroscience and Psychology from George Mason University
+- Army Veteran (101st ABN) Alum
+- research interests include neuroscience and sports analytics. 
+- Away from work I enjoy running, gaming, mountain biking, and soccer.
+
+📫 reach me at mike.maquera212[at]gmail.com
+⚡ portfolio site: https://www.mikemaquera.io/
+
+
+
+
 
 <!--
 **mmaquer2/mmaquer2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
