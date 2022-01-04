@@ -2,9 +2,6 @@
 
 - Hi! I'm Mike, a software engineer located in Boston, MA, currently pursing a masters degree in computer science at Northeastern University.
 
-- BS in Neuroscience and Psychology from George Mason University
-- Away from work I enjoy running, gaming, mountain biking, and soccer.
-
 - 📫 reach me at mike.maquera212[at]gmail.com
 
 - ⚡ portfolio site: https://www.mikemaquera.io/
