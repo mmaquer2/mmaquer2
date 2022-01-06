@@ -1,6 +1,8 @@
 
 
-- Hi! I'm Mike, a software engineer located in Boston, MA, currently pursing a masters degree in computer science at Northeastern University.
+- 👋 Hi, I'm Mike Maquera.
+
+- I'm located in Boston, MA, currently pursing a masters degree in computer science at Northeastern University.
 
 - 📫 reach me at mike.maquera212[at]gmail.com
 
