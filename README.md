@@ -4,7 +4,7 @@
 
 - 📫 reach me at mike.maquera212[at]gmail.com
 
-- 🔭 portfolio site: mikemaquera.io
+- 🔭 portfolio site: https://mikemaquera.io/
 
 
 
