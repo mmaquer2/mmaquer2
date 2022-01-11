@@ -9,6 +9,10 @@
 - 🔭 portfolio site: https://mikemaquera.io/
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmaquer2&theme=tokyonight)
+
+
+
 
 
 
