@@ -1,6 +1,6 @@
 
 
-- 👋 Hi, I'm Mike Maquera.
+👋 Hi, I'm Mike Maquera.
 
 
 
