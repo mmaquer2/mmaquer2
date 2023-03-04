@@ -1,6 +1,7 @@
 
 
 👋 Hi, I'm Mike Maquera.
+- George Mason University Neuroscience, Northeastern University CS
 
 
 
