@@ -1,7 +1,7 @@
 
 
 👋 Hi, I'm Mike Maquera.
-- George Mason University, Northeastern University
+- George Mason University, Northeastern University Alumni
 
 
 
