@@ -2,11 +2,11 @@
 
 👋 Hi, I'm Mike Maquera.
 
-Site Reliability Engineer 
-
+- Site Reliability Engineer 
+- George Mason University, Northeastern University Alumni
 [Portfolio Site](https://mikemaquera.dev/)
 
-- George Mason University, Northeastern University Alumni
+
 
 
 
